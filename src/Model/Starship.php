@@ -2,6 +2,7 @@
 
 namespace App\Model;
 
+
 class Starship
 {
     public function __construct(
